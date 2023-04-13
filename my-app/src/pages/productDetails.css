@@ -1,0 +1,11 @@
+.productStyle{
+   font-size: 18px;
+   color:#dc3545;
+   font-weight: 400;
+   margin-top: 20px;
+   max-width: 500px;
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
